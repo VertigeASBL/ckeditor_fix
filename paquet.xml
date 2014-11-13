@@ -1,0 +1,22 @@
+<paquet
+	prefix="ckeditor_fix"
+	categorie="outil"
+	version="1.0.0"
+	etat="dev"
+	compatibilite="[3.0.17;3.0.*]"
+	logo=""
+	documentation=""
+>
+	<!--
+		Paquet genere le 2014-11-12 14:58:32
+	-->
+
+	<nom>CKEditor Fix</nom>
+
+	<auteur>Michel @ Vertige ASBL</auteur>
+
+	<licence>GNU/GPL</licence>
+
+
+
+</paquet>
